@@ -1,4 +1,4 @@
-Entity,Code,Year,Deaths - Sex: all - Age: all - Variant: estimates,Deaths - Sex: all - Age: all - Variant: medium,Births - Sex: all - Age: all - Variant: estimates,Births - Sex: all - Age: all - Variant: medium
+Entity,Code,Year,Deaths_estimates,Deaths_medium,Births_estimates,Births_medium
 Afghanistan,AFG,1950,283668,,365303,
 Afghanistan,AFG,1951,282577,,372040,
 Afghanistan,AFG,1952,280803,,378290,
